@@ -4,6 +4,7 @@
    <?php 
     $title = "Услуги";
     require_once "parts/head.php" ?>
+	<meta name = "viewport" content = "width = device-width">
 </head>
 
 <html>
@@ -20,10 +21,10 @@
 					<div class="grid_12">
 						<h3>Наши услуги</h3>
 					</div>
-					<div class="grid_4">
+					<div class="grid_4 box_grey">
 						<div class="box">
 							<div class="maxheight" style="height: auto;"><div class="box_inner">
-								<img src="assets/template/site/images/page4_img7.jpg" alt="">
+								<img src="assets/img/service1.jpg" alt="">
 								<div class="text1 color2">
 									<a href="#">Автобусные экскурсии по Крыму.</a>
 								</div>
@@ -33,10 +34,10 @@
 							</div></div>
 						</div>
 					</div>
-					<div class="grid_4">
+					<div class="grid_4 box_grey">
 						<div class="box">
 							<div class="maxheight" style="height: auto;"><div class="box_inner">
-								<img src="assets/template/site/images/page4_img5.jpg" alt="">
+								<img src="assets/img/service2.jpg" alt="">
 								<div class="text1 color2">
 									<a href="#">Качественные пассажирские перевозки по Крыму. </a>
 								</div>
@@ -46,10 +47,10 @@
 							</div></div>
 						</div>
 					</div>
-					<div class="grid_4">
+					<div class="grid_4 box_grey">
 						<div class="box">
 							<div class="maxheight" style="height: auto;"><div class="box_inner">
-								<img src="assets/template/site/images/page4_img3.jpg" alt="">
+								<img src="assets/img/service3.jpg" alt="">
 								<div class="text1 color2">
 									<a href="#">Трансфер по Крыму. Встреча в аэропорту и/или порт "Крым". </a>
 								</div>
